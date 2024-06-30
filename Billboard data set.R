@@ -1,5 +1,4 @@
 
-
 # Are number one jams more cheerful, in general?
 
 install.packages('tidytuesdayR')
